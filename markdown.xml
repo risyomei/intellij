@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;MS Mincho&quot;,&quot;Helvetica Neue&quot;;&#10;}" />
+    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;MS Mincho&quot;,&quot;Helvetica Neue&quot;;&#10;}" />
   </component>
 </application>
